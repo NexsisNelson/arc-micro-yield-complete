@@ -1,0 +1,189 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Flutter specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+.metadata
+*.iml
+*.class
+*.lock
+*.log
+*.swp
+.env
+.env.local
+.env.*.local
+local.properties
+generatedPluginRegistrant.dart
+
+# iOS/macOS specific
+ios/.symlinks/
+ios/.generated/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeralflutterexports.sh
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/local.properties
+ios/Flutter/plugins.json
+ios/Runner.xcodeproj/project.pbxproj
+ios/Runner/GeneratedPluginRegistrant.*
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/ephemeralflutterexports.sh
+macos/Flutter/GeneratedPluginRegistrant.*
+
+# Android specific
+android/.gradle/
+android/.idea/
+android/**/local.properties
+android/**/GeneratedPluginRegistrant.java
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/.gradle/7.*/
+android/local.properties
+.android/
+
+# Web
+web/plugins/url_launcher_web/
+web/plugins/
+
+# Linux
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/generated_plugin_registrant.h
+linux/flutter/generated_plugins.cmake
+
+# Windows
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
+windows/flutter/flutter_windows.cpp
+windows/flutter/flutter_windows.h
+windows/flutter/windows.vcxproj
+windows/flutter/windows.vcxproj.filters
+
+# Solidity / Foundry specific
+contracts/broadcast/
+contracts/cache/
+contracts/out/
+contracts/node_modules/
+contracts/.env
+contracts/.env.local
+contracts/.env.*.local
+contracts/env*.txt
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.classpath
+.project
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+
+# OS specific
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*~
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Misc
+.bundle/
+.byebug_history
+.rspec
+bundle.js
+node_modules/
+package.json
+package-lock.json
+yarn.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.test
+.env.production
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Private keys and secrets
+private_key
+private_key.*
+*.pem
+*.key
+secrets.json
+.secrets/
+
+# Coverage
+coverage/
+.nyc_output/
+lcov.info
+
+# Artifacts
+artifacts/
+dist/
+build/
+
+# Dependencies
+node_modules/
+.pub/
+.pub-cache/
+
+# Generated
+generated/
+*.generated.dart
